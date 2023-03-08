@@ -16,6 +16,7 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-import": "^2.27.5",
+    "express-delay": "^0.2.0",
     "nodemon": "^2.0.20",
     "prettier": "^2.8.4",
     "sequelize-cli": "^6.6.0",
