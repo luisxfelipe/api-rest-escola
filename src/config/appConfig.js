@@ -1,3 +1,3 @@
 export default {
-  url: process.env.REACT_URL,
+  url: `${process.env.APP_URL}:${process.env.APP_PORT}`,
 };
